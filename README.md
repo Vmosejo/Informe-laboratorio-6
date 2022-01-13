@@ -3,6 +3,7 @@
    1.1 GENERAL
    1.2 ESPECÍFICOS   
 ## 2. MARCO TEÓRICO
+![Transferencia-potencia -máxima](https://user-images.githubusercontent.com/93681159/146825767-3a18d714-e36b-43ca-896e-c9e93ead6ad1.jpeg)
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 ### Datos tamados de manera experimental.
 ![POTENCIAL EXPERIMENTAL ](https://user-images.githubusercontent.com/93893919/149244517-3d5ce1f1-b766-42cb-bb49-1586d1459d79.png)
