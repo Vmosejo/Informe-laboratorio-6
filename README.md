@@ -73,7 +73,7 @@
 ![image](https://user-images.githubusercontent.com/93666408/149457462-0623c7ea-122b-47b3-9aed-539aef08bc0e.png)
 
 ### Datos tamados de manera experimental.
-![POTENCIAL EXPERIMENTAL ](https://user-images.githubusercontent.com/93893919/149244517-3d5ce1f1-b766-42cb-bb49-1586d1459d79.png)
+
 ### Calculo de la intensidad de corriente.
 ![Calculo intensidad de la corriente ](https://user-images.githubusercontent.com/93893919/149244508-100eebd6-7f08-459f-98a8-a03320cacadf.png)
 ### Calculo de las potencias de manera teórica.
