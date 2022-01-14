@@ -1,7 +1,14 @@
 # Informe-laboratorio-6
 ## 1. OBJETIVOS
    1.1 GENERAL
+   
+   Analizar experimentalmente y teoricamente el comportamiento de un circuito DC mediante la aplicación del principio de la Máxima Transferencia de Potencia.
+   
    1.2 ESPECÍFICOS   
+   
+   * Determinar experimentalmente la condición necesaria para hallar la Máxima Transferencia de Potencia de un circuito eléctrico.
+   * Calcular la máxima transferencia de potencia que presentan los resistores en el circuito de acuerdo a la fórmula de la potencia.
+   * Comprobar los datos obtenidos en la parte experimental y teórica,a su vez determinar el margen de error existente.
 ## 2. MARCO TEÓRICO
 ![Transferencia-potencia -máxima](https://user-images.githubusercontent.com/93681159/146825767-3a18d714-e36b-43ca-896e-c9e93ead6ad1.jpeg)
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
