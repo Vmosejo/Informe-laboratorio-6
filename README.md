@@ -97,6 +97,7 @@ El valor de RL es 1000 Ω
 ### Calculo de error Porcentual del Laboratorio
 ![CALCULO DE ERROR ](https://user-images.githubusercontent.com/93893919/149244526-718573dd-8b4e-4f8f-926b-6498939bc5da.png)
 ## 5. VIDEO
+https://www.youtube.com/watch?v=D--BLn-jcEs
 ## 6. CONCLUSIONES
 * En conclusión,se transfiere potencia máxima a una carga desde una fuente cuando la resistencia de la carga es igual a la resistencia interna de la fuente.
 * Se transfiere potencia máxima en la resistencia de carga de 1kΩ dado que dicha resistencia es la que se aproxima al valor  de la resistencia interna de la fuente, por lo tanto se puede concluir que si se cumple con el teorema. 
