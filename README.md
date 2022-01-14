@@ -102,5 +102,5 @@ https://www.youtube.com/watch?v=D--BLn-jcEs
 * En conclusión,se transfiere potencia máxima a una carga desde una fuente cuando la resistencia de la carga es igual a la resistencia interna de la fuente.
 * Se transfiere potencia máxima en la resistencia de carga de 1kΩ dado que dicha resistencia es la que se aproxima al valor  de la resistencia interna de la fuente, por lo tanto se puede concluir que si se cumple con el teorema. 
 ## 7. BIBLIOGRAFÍA 
-Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
-A.Svoboda, R. C. (2011). Circuitos Electricos. Mexico: Alfaomega.
+* Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
+* A.Svoboda, R. C. (2011). Circuitos Electricos. Mexico: Alfaomega.
